@@ -15,6 +15,8 @@ echo "
 ############################################################
     Spammer Call From TOKOPEDIA
     Mod By      : Acep X-Code
+    Lead Team   : AI
+    Co Lead     : Mrs.Meni
     Contact Me  : acepxcode@gmail.com
     Blog        : www.acepx-code.zone.id
     Github      : https://github.com/mousecyber-sec
